@@ -1,10 +1,4 @@
-# presentacion-
+Presentacion:
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Soy Nicolás Ceballos, tengo 22 años y estudio la Tecnicatura en Programacion Informatica.
+Actualmente me encuentro trabajando full-time y en mis tiempos libres juego al cs o miro series.
